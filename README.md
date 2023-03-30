@@ -1,1 +1,2 @@
-# web-test-01
+# Referencias de aprendizaje Web
+Ejercicios HTML, CSS, Javascript
